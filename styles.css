@@ -1,2 +1,4 @@
-/*  your css
-table style="background-colour:yellow"
+
+tr,th{
+	background-color:yellow;
+}
